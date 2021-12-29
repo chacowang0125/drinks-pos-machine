@@ -31,7 +31,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* background: url('alphaPos-bg.jpg') no-repeat center center; */
+    background: url('https://raw.githubusercontent.com/ALPHACamp/alpha-pos/115d6d6be15f484fd016dac11100b6666532ad5c/alphaPos-bg.jpg') no-repeat center center;
     background-size: cover;
 }
 
